@@ -8,3 +8,4 @@ The difference between integral signs for displaystyle and regular style using s
 
 $\displaystyle \int_{-\infty}^\infty e^{-x^2} dx = \sqrt{\pi} \quad$
 $\int_{-\infty}^\infty e^{-x^2} dx = \sqrt{\pi}$
+
